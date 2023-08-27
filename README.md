@@ -2,9 +2,14 @@
 
 As a Software Engineer specialized in Machine Learning, I am deeply passionate about collaborating to create impactful solutions while constantly learning about new technologies and expanding my experience in the field.
 
+### You can reach me at:
 :email: Email: federicobecona@gmail.com  
-:bust_in_silhouette: Linkedin: https://www.linkedin.com/in/federicobecona/  
+:bust_in_silhouette: Linkedin: https://www.linkedin.com/in/federicobecona/
+
+### Portfolio:
 :book: Machine Learning Portfolio: https://federicobecona.github.io/Machine-Learning-Portfolio/  
+
+### GitHub Profiles:
 :pencil2: Personal Github Profile: https://github.com/federicobecona  
 :pencil2: Public Github Profile at [@mercadolibre](https://mercadolibre.com/): https://github.com/federicobecona-meli
 <!--
