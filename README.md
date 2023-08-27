@@ -2,12 +2,11 @@
 
 As a Software Engineer specialized in Machine Learning, I am deeply passionate about collaborating to create impactful solutions while constantly learning about new technologies and expanding my experience in the field.
 
-:email: federicobecona@gmail.com  
-:bust_in_silhouette: [LinkedIn Profile](https://www.linkedin.com/in/federicobecona/)  
-:book: [Machine Learning Portfolio](https://federicobecona.github.io/Machine-Learning-Portfolio/)  
-:pencil2: [Personal Github Profile](https://github.com/federicobecona)  
-:pencil2: [Github Profile](https://github.com/federicobecona-meli) [@mercadolibre](https://mercadolibre.com/)
-
+:email: Email: federicobecona@gmail.com  
+:bust_in_silhouette: Linkedin: https://www.linkedin.com/in/federicobecona/  
+:book: Machine Learning Portfolio: https://federicobecona.github.io/Machine-Learning-Portfolio/  
+:pencil2: Personal Github Profile: https://github.com/federicobecona  
+:pencil2: Github [@mercadolibre](https://mercadolibre.com/): https://github.com/federicobecona-meli
 <!--
 **federicobecona/federicobecona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
