@@ -12,7 +12,7 @@ As a Software Engineer specialized in Machine Learning, I am deeply passionate a
 ### Portfolio:
 :book: Machine Learning Portfolio: https://federicobecona.github.io/Machine-Learning-Portfolio/  
 
-### GitHub Profiles:
+### GitHub profiles:
 :pencil2: Personal Github profile: https://github.com/federicobecona  
 :pencil2: Corporate public GitHub profile at [@mercadolibre](https://mercadolibre.com/): https://github.com/federicobecona-meli
 
