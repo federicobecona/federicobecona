@@ -3,15 +3,18 @@
 As a Software Engineer specialized in Machine Learning, I am deeply passionate about collaborating to create impactful solutions while constantly learning about new technologies and expanding my experience in the field.
 
 ### You can reach me at:
+#### Personal
 :email: Email: federicobecona@gmail.com  
 :bust_in_silhouette: Linkedin: https://www.linkedin.com/in/federicobecona/
+#### Corporate
+:email: Email: federico.becona@mercadolibre.com
 
 ### Portfolio:
 :book: Machine Learning Portfolio: https://federicobecona.github.io/Machine-Learning-Portfolio/  
 
 ### GitHub Profiles:
-:pencil2: Personal Github Profile: https://github.com/federicobecona  
-:pencil2: Public Github Profile at [@mercadolibre](https://mercadolibre.com/): https://github.com/federicobecona-meli
+:pencil2: Personal Github profile: https://github.com/federicobecona  
+:pencil2: Corporate public GitHub profile at [@mercadolibre](https://mercadolibre.com/): https://github.com/federicobecona-meli
 
 ### Licenses & certifications:
 - Neural Netowkes and Deep Learning, DeepLearning.AI. [Certificate](https://www.coursera.org/account/accomplishments/certificate/UR4VGZJSJUHJ)
