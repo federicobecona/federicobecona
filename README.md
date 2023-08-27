@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+As a Software Engineer specialized in Machine Learning, I am deeply passionate about collaborating to create impactful solutions while constantly learning about new technologies and expanding my experience in the field.
+
 <!--
 **federicobecona/federicobecona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
