@@ -3,7 +3,7 @@
 As a Software Engineer specialized in Machine Learning, I am deeply passionate about collaborating to create impactful solutions while constantly learning about new technologies and expanding my experience in the field.
 
 ### You can find my resume at:
-:writing_hand: Resume: https://federicobecona.github.io/resume
+:open_book: Resume: https://federicobecona.github.io/resume
 
 ### Contact Info:
 #### Personal
