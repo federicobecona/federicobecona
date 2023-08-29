@@ -13,7 +13,7 @@ As a Software Engineer specialized in Machine Learning, I am deeply passionate a
 :email: Email: federico.becona@mercadolibre.com
 
 ### Portfolio:
-:book: Machine Learning Portfolio: https://federicobecona.github.io/Machine-Learning-Portfolio/  
+:book: Machine Learning Portfolio: https://federicobecona.github.io/machine-learning-portfolio
 
 ### GitHub profiles:
 :pencil2: Personal Github profile: https://github.com/federicobecona  
