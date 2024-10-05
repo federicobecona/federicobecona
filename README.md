@@ -2,7 +2,7 @@
 
 As a Software Engineer specialized in Machine Learning, I am deeply passionate about collaborating to create impactful solutions while constantly learning about new technologies and expanding my experience in the field.
 
-<h2> Contact Info: </h2>
+<h2> Contact </h2>
 
 #### Personal
 :email: Email: federicobecona@gmail.com  
