@@ -1,6 +1,6 @@
 <h2> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
-As a Software Engineer specialized in AI & ML, I am deeply passionate about collaborating to create impactful solutions while constantly learning about new technologies and expanding my experience in the field.
+Software Engineer specialized in AI & ML, deeply passionate about creating impactful solutions while constantly learning about new technologies.
 
 <h2> Contact </h2>
 
