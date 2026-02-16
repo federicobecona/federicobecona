@@ -17,7 +17,6 @@ Software Engineer specialized in AI & ML, deeply passionate about creating impac
 
 ### GitHub profiles:
 :pencil2: Personal Github profile: https://github.com/federicobecona  
-:pencil2: Corporate public GitHub profile at [@mercadolibre](https://mercadolibre.com/): https://github.com/federicobecona-meli
 
 <!--
 **federicobecona/federicobecona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
